@@ -1,2 +1,2 @@
 # ThimnaResume1
-My First Code
+My First Code, Thimna Elise Zondani, a digital Resume.
